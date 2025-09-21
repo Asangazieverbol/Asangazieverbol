@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Эрбол! 👋
 
-<!--
-**Asangazieverbol/Asangazieverbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Backend-разработчик из Бишкека, Кыргызстан, с опытом работы на **Java, Python и PHP**.  
+Стремлюсь создавать качественные веб-приложения, участвовать в реальных проектах и постоянно развивать навыки работы с фреймворками и базами данных.  
 
-Here are some ideas to get you started:
+## 🔹 Навыки
+**Backend:** Java | Python | PHP  
+**Frontend:** JavaScript | HTML | CSS  
+**Фреймворки:** React | Vue.js  
+**Инструменты:** Git | GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔹 Контакты
+- 📧 aa.erbol123@gmail.com  
+- GitHub: [Asangazieverbol](https://github.com/Asangazieverbol)
